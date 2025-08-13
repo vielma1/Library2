@@ -13,7 +13,7 @@ int main()
     Book book4;
     book4.setBookDetails("The Notebook", "978-0-446-52080-5", "Nicholas Sparks", true);
     Book book5;
-    book5.setBookDetails("Many Lives, Many Masters", "978-0-7432-6987-6", "Brian L Weiss", true);
+    book5.setBookDetails("Only Love Is Real", "978-0-7499-1781-1", "Brian L Weiss", true);
 
 
     Book array[300];
